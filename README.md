@@ -1,2 +1,2 @@
-# PYTHON QUCIK REVISE
+# PYTHON QUICK REVISE
 This repo is my space to update what I learn each day so I can keep every Python concept fresh. I add small examples, short notes and simple practice files that make it easy to review anything at a glance. It’s meant to be a quick way to strengthen the basics, build confidence and stay consistent. Anyone who reads it can follow the same routine and use the examples for hands-on practice without feeling overwhelmed. It grows a little every day and becomes a clear record of steady progress.
